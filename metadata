@@ -1,0 +1,14 @@
+Metadata for IBM Data.csv
+
+Context:
+IBM HR Employee Attrition & Performance data is a fictional data set created by IBM data scientist. HR data is very rare to find because it’s not usually well archived, so IBM data scientist made the data as an exercise to analyse human resources data. With this data, we can uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’.
+
+Shape: 35 columns, 1.470 rows
+Variables:
+Age: Employee’s age
+DailyRate: Employee’s daily rate that starts from 102 - 1.499 USD
+DistanceFromHome: Distance of office to employee’s home start from 1 - 29 (in miles)
+Education: Employee’s highest education level (categorical variable with 5 categories)
+Job Satisfaction: Employee’s rated job satisfaction (categorical variable with 4 categories)
+Attrition: Status whether employee has resigned or not (binary variable with “Yes” and “No”)
+etc.
